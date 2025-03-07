@@ -1,0 +1,11 @@
+# Node modules for React
+/frontend/node_modules
+/frontend/.env
+
+# Vendor and environment for Laravel
+/backend/vendor
+/backend/.env
+
+# OS files
+.DS_Store
+Thumbs.db
